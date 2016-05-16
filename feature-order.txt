@@ -1,0 +1,13 @@
+ORDER
+
+avg word length (mean normalized with 6.3)
+stdev of word length
+hapax legomena / number of unique words
+dis legomena / number of unique words
+richness / number of words
+500 words / (number of words / 10)
+named entities / (number of words /10)
+nt number / (overall length/10)
+um:am ratio
+conjunction count / (number of words / 10)
+author name / (number of words / 10)
