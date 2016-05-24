@@ -1,25 +1,25 @@
 ORDER
 
-avg word length (mean normalized with 6.3)
-stdev of word length
-hapax legomena / number of unique words
-dis legomena / number of unique words
-richness / number of words
-500 words / (number of words)
-named entities / (number of words)
-nt number / (overall length)
-um:am ratio
-noun frequency
-verb frequency
-participle frequency
-adjective frequency
-adverb frequency
-conjunction frequency
-preposition frequency
-pronoun frequency
-ablative absolute / (number of words)
-subjunctive verb frequency
-passive verb frequency
-infinitive verb frequency
-words per sentence avg
-author name / (number of words)
+1	avg word length (mean normalized with 6.3)
+2	stdev of word length
+3	hapax legomena / number of unique words
+4	dis legomena / number of unique words
+5	richness / number of words
+6-505	500 words / (number of words)
+506	named entities / (number of words)
+507	nt number / (overall length)
+508	um:am ratio
+509	noun frequency
+510	verb frequency
+511	participle frequency
+512	adjective frequency
+513	adverb frequency
+514	conjunction frequency
+515	preposition frequency
+516	pronoun frequency
+517	ablative absolute / (number of words)
+518	subjunctive verb frequency
+519	passive verb frequency
+520	infinitive verb frequency
+521	words per sentence avg
+522	author name / (number of words)
