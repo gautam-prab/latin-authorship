@@ -31,6 +31,9 @@ The testing (unknown set) uses the following works:
 * _De Bello Hispaniensi_ - either Caesar, Hirtius, or someone else entirely
 * _Invectiva in Ciceronem_ - attributed to Sallust but questioned
 * _Dialogus de Oratoribus_ - attributed to Tacitus but questioned, also meant to imitate Cicero
+* _Metamorphoses_, book 1 by Apuleius - to test what happens when the author is not in the trained author list
+* _Naturalis Historiae_, book 5 by Pliny the Elder - to test what happens when the author is not in the trained author list
+* _Res Gestae_, book 1 by Augustus - to test what happens when the author is not in the trained author list
 
 Citations:
 
